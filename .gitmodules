@@ -1,0 +1,6 @@
+[submodule "orcheya-frontend"]
+	path = orcheya-frontend
+	url = https://github.com/roonyx-tech/orcheya-frontend.git
+[submodule "orcheya-backend"]
+	path = orcheya-backend
+	url = https://github.com/roonyx-tech/orcheya-backend.git
